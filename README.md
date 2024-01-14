@@ -23,3 +23,5 @@ O código está pela metade, e você deverá dar continuidade obedecendo as regr
 
 ## Implementação
 Sistema de Celular implementado com sucesso!
+
+Este sistema fornece uma estrutura flexível para lidar com diferentes tipos de smartphones, permitindo a extensão fácil para outros modelos e marcas. O uso de abstração e polimorfismo contribui para a manutenção e escalabilidade do código.
